@@ -22,6 +22,8 @@ Passionate Solana developer with expertise in Rust, C/C++, Python, and NodeJS. S
 
 📧 Reach me out: ZorroScripts@proton.me
 
+🌟 Reach me out on [Telegram](https://t.me/zorro0x)
+
 </div>
 
 <h2 align="left">⚒️ Languages-Frameworks-Tools ⚒️</h2>
